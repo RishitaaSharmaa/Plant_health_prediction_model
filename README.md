@@ -1,1 +1,1 @@
-# Plant_health_prediction_model
+# Plant Health Prediction Model
