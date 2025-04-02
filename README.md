@@ -10,8 +10,7 @@ The **Plant Health Prediction Model** is a deep learning-based system that utili
 - **Scalable**: Can be trained on different datasets to include more plant species and diseases.
 
 ## Dataset
-The model is trained using a dataset consisting of labeled images of plant leaves.
-- **PlantVillage Dataset**
+The model is trained using *PlantVillage Dataset* a dataset consisting of labeled images of plant leaves.
 
 ## Technologies Used
 - **Python**
@@ -42,9 +41,20 @@ Run the Streamlit application:
 ```sh
 streamlit run app.py
 ```
-###Future Enhancements
--Improve dataset diversity for better generalization.
--Implement real-time prediction.
+## Future Enhancements
+- Improve dataset diversity for better generalization.
+- Implement real-time prediction.
+- Enhance interpretability using Grad-CAM visualization.
+
+
+
+
+
+
+
+
+
+
 
 
 
